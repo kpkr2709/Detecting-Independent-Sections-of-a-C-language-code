@@ -1,0 +1,15 @@
+ main at line : 1
+for loop started at line : 3
+for loop ended at line : 7
+main ended at line : 7
+root started at line : 7
+root ended at line : 8
+8 6
+    a    j    b    i    k kpkr
+    b    0    0    0    0    0
+    0    r    b    0    0    0
+    0    0    0    w    0    0
+    0    0    0    0    0    0
+    0    0    0    0    0    0
+    0    0    0    0    b    0
+    0    0    0    0    0    w
